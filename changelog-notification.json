@@ -22,7 +22,22 @@
       "title": "Mobile Responsive Improvements",
       "tags": "update,responsive,datatable",
       "type": "update",
-      "content": "Our DataTable block now adapts perfectly to mobile screens, ensuring a seamless experience on any device."
+      "content": "<div class='rv-update-notice'><p>We’re excited to bring you the latest <strong>Spectra Pro</strong> update,
+    focusing on security enhancements to ensure a smoother workflow.</p><h3>🔐 Security Fix</h3><p>
+    This update addresses a security bug. Special thanks to
+    <strong>Wordfence</strong> for responsibly reporting it to our team.
+  </p>
+
+  <p>
+    To maintain optimal security and performance, please ensure you’re using the
+    latest version on your website.
+  </p>
+
+  <p>
+    <strong>Upgrade to Spectra Pro 1.2.9 today!</strong>
+  </p>
+</div>
+"
     },
     {
       "date": "2026-01-15",
