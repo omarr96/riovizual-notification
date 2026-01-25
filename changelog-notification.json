@@ -1,0 +1,35 @@
+{
+  "start": "2025-04-20T00:00:00Z",
+  "end": "2025-05-30T23:59:59Z",
+  "changelogURL":"#",
+  "content": [
+    {
+      "date": "2026-01-25",
+      "title": "RioVizual 3.1.0 Released",
+      "tags": "release,datatable,update",
+      "type": "announcement",
+      "content": "🎉 RioVizual 3.1.0 is here! Introducing the brand-new DataTable block — built to display structured data with speed, flexibility, and full editor control."
+    },
+    {
+      "date": "2026-01-20",
+      "title": "New Feature: Advanced Filtering",
+      "tags": "feature,datatable,filter",
+      "type": "feature",
+      "content": "The DataTable block now supports advanced filtering options, allowing users to sort and filter their data more efficiently."
+    },
+    {
+      "date": "2026-01-18",
+      "title": "Mobile Responsive Improvements",
+      "tags": "update,responsive,datatable",
+      "type": "update",
+      "content": "Our DataTable block now adapts perfectly to mobile screens, ensuring a seamless experience on any device."
+    },
+    {
+      "date": "2026-01-15",
+      "title": "Custom Styling Options",
+      "tags": "feature,design,datatable",
+      "type": "feature",
+      "content": "You can now fully customize the look of your DataTable block with new styling options, including colors, fonts, and layout adjustments."
+    }
+  ]
+}
