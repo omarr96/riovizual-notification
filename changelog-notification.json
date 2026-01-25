@@ -1,7 +1,7 @@
 {
   "start": "2025-04-20T00:00:00Z",
   "end": "2026-05-30T23:59:59Z",
-  "changelogURL":"#",
+  "changelogURL": "#",
   "content": [
     {
       "date": "2026-01-25",
@@ -22,22 +22,7 @@
       "title": "Mobile Responsive Improvements",
       "tags": "update,responsive,datatable",
       "type": "update",
-      "content": "<div class='rv-update-notice'><p>We’re excited to bring you the latest <strong>Spectra Pro</strong> update,
-    focusing on security enhancements to ensure a smoother workflow.</p><h3>🔐 Security Fix</h3><p>
-    This update addresses a security bug. Special thanks to
-    <strong>Wordfence</strong> for responsibly reporting it to our team.
-  </p>
-
-  <p>
-    To maintain optimal security and performance, please ensure you’re using the
-    latest version on your website.
-  </p>
-
-  <p>
-    <strong>Upgrade to Spectra Pro 1.2.9 today!</strong>
-  </p>
-</div>
-"
+      "content": "<div class=\"rv-update-notice\">\n  <p>We’re excited to bring you the latest <strong>Spectra Pro</strong> update, focusing on security enhancements to ensure a smoother workflow.</p>\n  <h3>🔐 Security Fix</h3>\n  <p>This update addresses a security bug. Special thanks to <strong>Wordfence</strong> for responsibly reporting it to our team.</p>\n  <p>To maintain optimal security and performance, please ensure you’re using the latest version on your website.</p>\n  <p><strong>Upgrade to Spectra Pro 1.2.9 today!</strong></p>\n</div>"
     },
     {
       "date": "2026-01-15",
