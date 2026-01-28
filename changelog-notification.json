@@ -10,7 +10,7 @@
       "tags": "release,datatable,update",
       "type": "announcement",
       "thumbnail": "",
-      "content": "🎉 RioVizual 3.1.0 is here! Introducing the brand-new DataTable block — built to display structured data with speed, flexibility, and full editor control."
+      "content": "<p>🎉 <strong>RioVizual 3.1.0</strong> is here! Introducing the brand-new <strong>DataTable block</strong> — built to display structured data with speed, flexibility, and full editor control.</p><ul><li>🚀 Performance improvements for faster loading</li><li>🛠 Bug fixes and stability updates</li></ul>"
     },
     {
       "date": "2026-01-20",
@@ -19,7 +19,7 @@
       "tags": "feature,datatable,filter",
       "type": "feature",
       "thumbnail": "https://omarr96.github.io/table-demo-design/v3.0.0.png",
-      "content": "🎉 RioVizual 3.1.0 is here! Introducing the brand-new DataTable block — built to display structured data with speed, flexibility, and full editor control.\n\n<ul>\n  <li>✨ Improved editor performance for faster block rendering</li>\n  <li>🐛 Fixed issues with table column alignment in some cases</li>\n  <li>➕ Added support for custom cell formatting options</li>\n</ul>"
+      "content": "<p>🎉 New filtering system added to <strong>DataTable block</strong>:</p><ul><li>✨ Advanced multi-column filtering</li><li>🔍 Searchable dropdown filters</li></ul><p>Use <strong>tags</strong> or <span class='tag'>labels</span> to categorize your data easily.</p>"
     },
     {
       "date": "2026-01-18",
@@ -28,7 +28,7 @@
       "tags": "update,responsive,datatable",
       "type": "update",
       "thumbnail": "https://omarr96.github.io/table-demo-design/v3.0.0.png",
-      "content": "Our DataTable block now adapts perfectly to mobile screens, ensuring a seamless experience on any device."
+      "content": "<p>Our <strong>DataTable block</strong> now adapts perfectly to mobile screens:</p><ul><li>📱 Responsive columns and headers</li><li>🖱 Smooth scrolling on small devices</li></ul><p>Enjoy a seamless experience on any device!</p>"
     },
     {
       "date": "2026-01-15",
@@ -37,7 +37,7 @@
       "tags": "feature,design,datatable",
       "type": "feature",
       "thumbnail": "",
-      "content": "You can now fully customize the look of your DataTable block with new styling options, including colors, fonts, and layout adjustments."
+      "content": "<p>You can now fully customize the look of your <strong>DataTable block</strong>:</p><ul><li>🎨 Color schemes and background options</li><li>🔤 Fonts and typography control</li><li>📐 Layout adjustments including column widths</li></ul><p>Make your tables fit perfectly with your site design!</p>"
     }
   ]
 }
