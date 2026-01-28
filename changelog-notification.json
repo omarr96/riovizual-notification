@@ -9,6 +9,7 @@
       "title": "RioVizual 3.1.0 Released",
       "tags": "release,datatable,update",
       "type": "announcement",
+      "thumbnail": "",
       "content": "🎉 RioVizual 3.1.0 is here! Introducing the brand-new DataTable block — built to display structured data with speed, flexibility, and full editor control."
     },
     {
@@ -17,7 +18,8 @@
       "title": "New Feature: Advanced Filtering",
       "tags": "feature,datatable,filter",
       "type": "feature",
-      "content": "The DataTable block now supports advanced filtering options, allowing users to sort and filter their data more efficiently."
+      "thumbnail": "https://omarr96.github.io/table-demo-design/v3.0.0.png",
+      "content": "🎉 RioVizual 3.1.0 is here! Introducing the brand-new DataTable block — built to display structured data with speed, flexibility, and full editor control.\n\n<ul>\n  <li>✨ Improved editor performance for faster block rendering</li>\n  <li>🐛 Fixed issues with table column alignment in some cases</li>\n  <li>➕ Added support for custom cell formatting options</li>\n</ul>"
     },
     {
       "date": "2026-01-18",
@@ -25,6 +27,7 @@
       "title": "Mobile Responsive Improvements",
       "tags": "update,responsive,datatable",
       "type": "update",
+      "thumbnail": "https://omarr96.github.io/table-demo-design/v3.0.0.png",
       "content": "Our DataTable block now adapts perfectly to mobile screens, ensuring a seamless experience on any device."
     },
     {
@@ -33,6 +36,7 @@
       "title": "Custom Styling Options",
       "tags": "feature,design,datatable",
       "type": "feature",
+      "thumbnail": "",
       "content": "You can now fully customize the look of your DataTable block with new styling options, including colors, fonts, and layout adjustments."
     }
   ]
