@@ -8,9 +8,9 @@
       "version": "3.0.0",
       "title": "RioVizual 3.1.0 Released",
       "tags": "release,datatable,update",
-      "type": "announcement",
+      "type": "Pro",
       "thumbnail": "",
-      "content": "<p>We’ve been listening to your feedback! This update focuses on giving you more granular control over your animations while keeping your site speed lightning-fast.</p><span>New</span>\n\n<ul>\n  <li>✨ Improved editor performance for faster block rendering</li>\n  <li>Fixed issues with table column alignment in some cases</li>\n  <li>Added support for custom cell formatting options</li>\n</ul> <span>Added</span>\n\n<ul>\n  <li>✨ Improved editor performance for faster block rendering</li>\n <li>Fixed issues with table column alignment in some cases</li>\n <a class='view-more' href='#'>View More</a></ul>"
+      "content": "<p>We’ve been listening to your feedback! This update focuses on giving you more granular control over your animations while keeping your site speed lightning-fast.</p><span>New</span>\n\n<ul>\n  <li>Improved editor performance for faster block rendering</li>\n  <li>Fixed issues with table column alignment in some cases</li>\n  <li>Added support for custom cell formatting options</li>\n</ul> <span>Added</span>\n\n<ul>\n  <li>✨ Improved editor performance for faster block rendering</li>\n <li>Fixed issues with table column alignment in some cases</li>\n </ul> \n <a class='view-more' href='#'>View More</a>"
     },
     {
       "date": "2026-01-20",
@@ -19,7 +19,7 @@
       "tags": "feature,datatable,filter",
       "type": "feature",
       "thumbnail": "",
-      "content": "RioVizual 3.1.0 is here! Introducing the brand-new DataTable block — built to display structured data with speed, flexibility, and full editor control.\n\n<ul>\n  <li>✨ Improved editor performance for faster block rendering</li>\n  <li>🐛 Fixed issues with table column alignment in some cases</li>\n  <li>➕ Added support for custom cell formatting options</li>\n</ul>"
+      "content": "RioVizual 3.1.0 is here! Introducing the brand-new DataTable block — built to display structured data with speed, flexibility, and full editor control.<span>Improve</span>\n\n<ul>\n  <li>Improved editor performance for faster block rendering</li>\n  <li>Fixed issues with table column alignment in some cases</li>\n  <li>Added support for custom cell formatting options</li>\n</ul>"
     },
     {
       "date": "2026-01-18",
