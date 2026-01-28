@@ -1,10 +1,11 @@
 {
   "start": "2025-04-20T00:00:00Z",
-  "end": "2026-05-30T23:59:59Z",
-  "changelogURL": "#",
+  "end": "2025-05-30T23:59:59Z",
+  "changelogURL":"#",
   "content": [
     {
       "date": "2026-01-25",
+      "version": "3.0.0",
       "title": "RioVizual 3.1.0 Released",
       "tags": "release,datatable,update",
       "type": "announcement",
@@ -12,6 +13,7 @@
     },
     {
       "date": "2026-01-20",
+      "version": "3.0.0",
       "title": "New Feature: Advanced Filtering",
       "tags": "feature,datatable,filter",
       "type": "feature",
@@ -19,13 +21,15 @@
     },
     {
       "date": "2026-01-18",
+      "version": "2.3.5",
       "title": "Mobile Responsive Improvements",
       "tags": "update,responsive,datatable",
       "type": "update",
-      "content": "<div class=\"rv-update-notice\">\n  <p>We’re excited to bring you the latest <strong>Spectra Pro</strong> update, focusing on security enhancements to ensure a smoother workflow.</p>\n  <h3>🔐 Security Fix</h3>\n  <p>This update addresses a security bug. Special thanks to <strong>Wordfence</strong> for responsibly reporting it to our team.</p>\n  <p>To maintain optimal security and performance, please ensure you’re using the latest version on your website.</p>\n  <p><strong>Upgrade to Spectra Pro 1.2.9 today!</strong></p>\n</div>"
+      "content": "Our DataTable block now adapts perfectly to mobile screens, ensuring a seamless experience on any device."
     },
     {
       "date": "2026-01-15",
+      "version": "3.0.1",
       "title": "Custom Styling Options",
       "tags": "feature,design,datatable",
       "type": "feature",
