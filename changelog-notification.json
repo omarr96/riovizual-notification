@@ -6,38 +6,26 @@
     {
       "date": "2026-01-25",
       "version": "3.0.0",
-      "title": "RioVizual 3.1.0 Released",
-      "tags": "release,datatable,update",
       "type": "Pro",
-      "thumbnail": "",
-      "content": "<p>We’ve been listening to your feedback! This update focuses on giving you more granular control over your animations while keeping your site speed lightning-fast.</p><span>New</span>\n\n<ul>\n  <li>Improved editor performance for faster block rendering</li>\n  <li>Fixed issues with table column alignment in some cases</li>\n  <li>Added support for custom cell formatting options</li>\n</ul> <span>Added</span>\n\n<ul>\n  <li>✨ Improved editor performance for faster block rendering</li>\n <li>Fixed issues with table column alignment in some cases</li>\n </ul> \n <a class='view-more' href='#'>View More</a>"
+      "content": "<span>New</span>\n\n<ul>\n  <li>Improved editor performance for faster block rendering</li>\n  <li>Fixed issues with table column alignment in some cases</li>\n  <li>Added support for custom cell formatting options</li>\n</ul> <span>Added</span>\n\n<ul>\n  <li>Improved editor performance for faster block rendering</li>\n <li>Fixed issues with table column alignment in some cases</li>\n </ul>"
     },
     {
       "date": "2026-01-20",
       "version": "3.0.0",
-      "title": "New Feature: Advanced Filtering",
-      "tags": "feature,datatable,filter",
-      "type": "feature",
-      "thumbnail": "",
-      "content": "RioVizual 3.1.0 is here! Introducing the brand-new DataTable block — built to display structured data with speed, flexibility, and full editor control.<span>Improve</span>\n\n<ul>\n  <li>Improved editor performance for faster block rendering</li>\n  <li>Fixed issues with table column alignment in some cases</li>\n  <li>Added support for custom cell formatting options</li>\n</ul>"
+      "type": "free",
+      "content": "<span>Improve</span>\n\n<ul>\n  <li>Improved editor performance for faster block rendering</li>\n  <li>Fixed issues with table column alignment in some cases</li>\n  <li>Added support for custom cell formatting options</li>\n</ul>"
     },
     {
       "date": "2026-01-18",
       "version": "2.3.5",
-      "title": "Mobile Responsive Improvements",
-      "tags": "update,responsive,datatable",
-      "type": "update",
-      "thumbnail": "https://omarr96.github.io/table-demo-design/v3.0.0.png",
-      "content": "Our DataTable block now adapts perfectly to mobile screens, ensuring a seamless experience on any device."
+      "type": "pro",
+      "content": "<span>Improve</span>\n\n<ul>\n  <li>Improved editor performance for faster block rendering</li>\n  <li>Fixed issues with table column alignment in some cases</li>\n  <li>Added support for custom cell formatting options</li>\n</ul>"
     },
     {
       "date": "2026-01-15",
       "version": "3.0.1",
-      "title": "Custom Styling Options",
-      "tags": "feature,design,datatable",
-      "type": "feature",
-      "thumbnail": "",
-      "content": "You can now fully customize the look of your DataTable block with new styling options, including colors, fonts, and layout adjustments."
+      "type": "free",
+      "content": "<span>Improve</span>\n\n<ul>\n  <li>Improved editor performance for faster block rendering</li>\n  <li>Fixed issues with table column alignment in some cases</li>\n  <li>Added support for custom cell formatting options</li>\n<li>Fixed issues with table column alignment in some cases</li>\n</ul>"
     }
   ]
 }
